@@ -1,0 +1,10 @@
+@InProceedings{ButkoMLMI2008,
+  author  = {Taras Butko and Andrey Temko and Climent Nadeu and Cristian Canton Ferrer},
+  title   = {Inclusion of Video Information for Detection of Acoustic Events using Fuzzy Integral},
+  booktitle = {Workshop on Machine Learning and Multimodal Interaction (MLMI)},
+  publisher = {Springer},
+  series    = {Lecture Notes in Artificial Intelligence},
+  volume    = {5237},
+  year      = {2008},
+  pages     = {74--85}
+}
