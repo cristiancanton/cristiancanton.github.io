@@ -1,0 +1,6 @@
+@book{CantonPhD2009,
+  author    = {Cristian Canton Ferrer},
+  title     = {Human Motion Capture with Scalable Body Models},
+  publisher = {Technical University of Catalonia},
+  year      = {2009}
+}

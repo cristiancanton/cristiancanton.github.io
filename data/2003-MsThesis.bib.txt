@@ -1,0 +1,6 @@
+@book{CantonMsS2003,
+  author    = {Cristian Canton Ferrer},
+  title     = {Texture and Edge Adaptive Weak Matching Pursuit},
+  publisher = {École Polytechnique Fédérale de Lausanne (EPFL)},
+  year      = {2003}
+}

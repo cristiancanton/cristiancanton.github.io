@@ -1,0 +1,6 @@
+@article{CantonJASP2007,
+  author  = {Cristian Canton Ferrer and Carlos Segura and Josep R. Casas and Montse Pardàs and Javier Hernando},
+  title   = {Audiovisual Head Orientation Estimation with Particle Filters in Multisensor Scenarions},
+  journal = {EURASIP Journal on Advances on Signal Processing},
+  year = {2007}
+}
