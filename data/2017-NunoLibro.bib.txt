@@ -1,0 +1,6 @@
+@book{CantonTovarNuno2017,
+  author    = {Cristian Canton Ferrer and Raquel Tovar Abad},
+  title     = {Jaime Nunó: más allá del Himno Nacional Mexicano},
+  publisher = {Fundación Jaime Nunoó and Fondo Nacional para la Cultura y las Artes},
+  year      = 2017
+}
