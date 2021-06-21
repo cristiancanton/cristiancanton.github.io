@@ -1,0 +1,8 @@
+@misc{PixInWav2021,
+  title={PixInWav: Residual Steganography for Hiding Pixels in Audio},
+  author={Margarita Geleta, Cristina Punti, Kevin McGuinness, Jordi Pons, Cristian Canton Ferrer, Xavier Giro-i-Nieto},
+  year={2021},
+  eprint={2106.09814},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
