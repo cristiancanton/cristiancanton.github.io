@@ -1,0 +1,8 @@
+@misc{CCv2-2023,
+  title={The Casual Conversations v2 Dataset},
+  author={Bilal Porgali, Vitor Albiero, Jordan Ryda, Cristian Canton Ferrer, Caner Hazirbas},
+  year={2023},
+  eprint={2303.04838},
+  archivePrefix={arXiv},
+  primaryClass={cs.CV}
+}
